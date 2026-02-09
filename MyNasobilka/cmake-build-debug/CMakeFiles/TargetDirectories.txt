@@ -1,3 +1,0 @@
-C:/Users/kubap/OneDrive/Documents/programování/C/MyNasobilka/cmake-build-debug/CMakeFiles/MyNasobilka.dir
-C:/Users/kubap/OneDrive/Documents/programování/C/MyNasobilka/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kubap/OneDrive/Documents/programování/C/MyNasobilka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
